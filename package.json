@@ -29,9 +29,9 @@
 		"@types/qs": "^6.9.4",
 		"axios": "^0.21.1",
 		"better-sqlite3": "^7.6.2",
-		"body-parser": "^1.19.0",
+		"body-parser": "^1.20.3",
 		"ethers": "^5.7.1",
-		"express": "^4.17.1",
+		"express": "^4.21.0",
 		"fs": "0.0.1-security",
 		"sqlite3": "^5.1.2"
 	},
